@@ -1,6 +1,8 @@
 {
     "name": "whackashoe/bstall",
-    "description": "",
+    "description": "Bathroom Stall for Laravel 4",
+    "keywords": ["laravel", "redis", "toilet"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Jett LaRue",
@@ -16,7 +18,6 @@
         ],
         "psr-0": {
             "Whackashoe\\Bstall\\": "src/",
-            "Whackashoe\\Bstall\\Controllers\\": "controllers/"
         }
     },
     "minimum-stability": "stable"
