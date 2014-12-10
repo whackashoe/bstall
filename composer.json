@@ -16,6 +16,7 @@
         ],
         "psr-0": {
             "Whackashoe\\Bstall\\": "src/"
+            "Whackashoe\\Bstall\\Controllers\\": "controllers/"
         }
     },
     "minimum-stability": "stable"

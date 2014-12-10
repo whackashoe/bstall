@@ -43,6 +43,12 @@ Find the `aliases` key in `app/config/app.php`.
     )
 ```
 
+Add the draw route to your `routes.php` file:
+
+```php
+    Route::post('/bstall/draw/{id}', 'Whackashoe\Bstall\Controllers\BstallController@draw');
+```
+
 ## Example Usage
 
 ```twig
