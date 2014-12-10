@@ -17,7 +17,7 @@
         "classmap": [
         ],
         "psr-0": {
-            "Whackashoe\\Bstall\\": "src/",
+            "Whackashoe\\Bstall\\": "src/"
         }
     },
     "minimum-stability": "stable"
