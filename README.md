@@ -11,7 +11,7 @@ project's `composer.json`.
 ```json
 {
     "require": {
-        "laravel/framework": "4.0.*",
+        "laravel/framework": "4.2.*",
         "whackashoe/bstall": "dev-master"
     },
     "minimum-stability": "dev"
